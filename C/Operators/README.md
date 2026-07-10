@@ -9,3 +9,5 @@ This folder contains C programs demonstrating different types of operators.
 - Relational Operators
 - Logical Operators
 - Bitwise Operators
+- Special Operators
+- Ternary Operators
